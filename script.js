@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (marks) {
         const totalMarksDiv = document.getElementById('totalMarks');
         totalMarksDiv.innerHTML = `
-            <p><strong>Total Marks:</strong> ${marks*10} out of</p>`;
+            <p><strong>Total Marks:</strong> ${marks*10} out of 50</p>`;
     }
 
     // Retrieve selected answers from session storage

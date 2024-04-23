@@ -91,15 +91,6 @@ button[type="submit"]:hover {
     background-color: #343a40; /* Dark gray navbar */
 }
 
-.navbar-brand {
-    color: #fff; /* White brand text color */
-    font-weight: bold;
-}
-
-.navbar-nav .nav-link {
-    color: #fff; /* White link text color */
-    margin-right: 10px;
-}
 
 .navbar-nav .nav-link.active {
     font-weight: bold;
@@ -139,7 +130,7 @@ h2 {
 }
 
 .navbar-nav .nav-link {
-    color: #fff; /* White link text color */
+    color: grey; /* White link text color */
     margin-right: 10px;
 }
 
